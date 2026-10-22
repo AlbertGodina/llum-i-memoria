@@ -1,0 +1,92 @@
+site_name: "Llum i Memòria"
+site_description: "Disseny 3D per a records il·luminats: litofanies amb LED reciclat (4t d'ESO, Tecnologia)."
+site_author: "Albert Godina Lapaz"
+
+# Adreça del web publicat a GitHub Pages (comprova que sigui correcta)
+site_url: https://albertgodina.github.io/llum-i-memoria/
+repo_url: https://github.com/albertgodina/llum-i-memoria
+edit_uri: ""
+
+theme:
+  name: material
+  language: ca
+  palette:
+    # Mode clar per defecte
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: deep orange
+      accent: amber
+      toggle:
+        icon: material/brightness-7
+        name: Canviar a mode fosc
+    # Mode fosc
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: deep orange
+      accent: amber
+      toggle:
+        icon: material/brightness-4
+        name: Canviar a mode clar
+  features:
+    - navigation.sections       # Agrupa seccions al menú lateral
+    - navigation.top            # Botó per tornar amunt
+    - navigation.footer         # Enllaços "Anterior / Següent" al peu de pàgina
+    - toc.follow                # L'índex segueix el scroll
+    - search.suggest            # Suggeriments de cerca
+    - search.highlight          # Ressalta termes buscats
+
+markdown_extensions:
+  - admonition                  # Blocs !!! note, !!! warning, !!! tip...
+  - pymdownx.details            # Desplegables ??? tip (pistes i solucions)
+  - pymdownx.superfences
+  - pymdownx.tabbed:            # Pestanyes
+      alternate_style: true
+  - pymdownx.tasklist:          # Checklists amb caselles
+      custom_checkbox: true
+  - attr_list
+  - md_in_html
+  - toc:
+      permalink: true           # Enllaços directes als títols
+
+plugins:
+  - search
+
+# Pàgines que existeixen però encara no surten al menú (Extres amb talladora làser).
+# Quan estiguin llestes: treu aquestes línies i afegeix l'apartat Extres al nav.
+not_in_nav: |
+  /extres/
+
+# Rutes relatives a la carpeta docs/
+nav:
+  - Inici: index.md
+  - "Com treballem": com-treballem.md
+  - "Fase 1: Què en sabem?":
+      - "Sessió 1: El repte i la ideació": fase1-que-en-sabem/s01-repte-ideacio.md
+      - "Sessió 2: Planificació i cicle de vida": fase1-que-en-sabem/s02-planificacio-cicle-vida.md
+  - "Fase 2: Aprenem":
+      - "Sessió 3: Introducció al disseny 3D": fase2-aprenem/s03-tinkercad-basic.md
+      - "Sessió 4: Forats i importació de la litofania": fase2-aprenem/s04-forats-importacio-litofania.md
+      - "Sessió 5: Disseny de la capsa": fase2-aprenem/s05-disseny-capsa.md
+      - "Sessió 6: Laminació": fase2-aprenem/s06-laminacio-cura.md
+      - "Sessió 7: Muntatge electrònic": fase2-aprenem/s07-electronica-led.md
+  - "Fase 3: Què hem après?":
+      - "Sessió 8: Incidències i integració": fase3-que-hem-apres/s08-incidencies-integracio.md
+      - "Sessió 9: Portafoli digital": fase3-que-hem-apres/s09-portafoli-digital.md
+  - "Fase 4: Apliquem":
+      - "Sessió 10: Acabats i pitch": fase4-apliquem/s10-acabats-pitch.md
+      - "Sessió 11: Presentació final": fase4-apliquem/s11-presentacio-final.md
+      - "Sessió 12: Reflexió i tancament": fase4-apliquem/s12-reflexio-tancament.md
+  - "Pràctica de Tinkercad":
+      - "Presentació": practica-tinkercad/index.md
+      - "Bloc 1. Formes i mesures": practica-tinkercad/bloc1-formes-mesures.md
+      - "Bloc 2. Unir i alinear": practica-tinkercad/bloc2-unir-alinear.md
+      - "Bloc 3. Forats": practica-tinkercad/bloc3-forats.md
+      - "Bloc 4. Composició": practica-tinkercad/bloc4-composicio.md
+      - "Bloc 5. Creatiu": practica-tinkercad/bloc5-creatiu.md
+  - Recursos:
+      - "Plantilles": recursos/plantilles.md
+      - "Fitxes visuals": recursos/fitxes-visuals.md
+      - "Tinkercad de rescat": recursos/tinkercad-rescat.md
+      - "Calculadora de resistència": recursos/calculadora-resistencia.md
+  - "Lliuraments": lliuraments.md
+  - "Glossari": glossari.md
