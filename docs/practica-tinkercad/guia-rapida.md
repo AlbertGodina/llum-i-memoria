@@ -13,6 +13,8 @@ Aquesta pàgina és per consultar quan no recordeu com es fa alguna cosa. Totes 
 | **Fer un cilindre llis** | Al panell de propietats, poseu **Sides** (costats) al màxim |
 | **Moure una peça amunt o avall** | Cliqueu la fletxa negra que hi ha a sobre de la forma i escriviu l'alçada en mm |
 | **Alinear peces** | Seleccioneu-les totes i premeu **L** (eina Align). Cliqueu els punts d'alineació de cada eix |
+| **Girar una peça 90°** | Cliqueu la peça i arrossegueu una de les fletxes corbes, o escriviu els graus al quadre que apareix |
+| **Alinear pel centre, pel davant o pel darrere** | Amb l'eina Align (**L**) trieu, a cada eix, el punt d'alineació: el del mig per centrar, o el d'un costat per alinear-ho per aquell cantó |
 | **Agrupar** | Seleccioneu les peces i premeu **Ctrl + G** |
 | **Desagrupar** | **Ctrl + Maj + G** |
 | **Deixar una peça sobre el pla de treball** | Premeu **D** |
