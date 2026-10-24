@@ -80,7 +80,7 @@ A la pàgina [Com treballem](../com-treballem.md) hi ha els quatre rols del proj
 | Rol | Responsable de |
 |---|---|
 | **Dissenyador/a principal** | Tinkercad i mesures precises |
-| **Enginyer/a de fabricació** | Cura, impressora i cua d'impressió |
+| **Enginyer/a de fabricació** | Bambu Studio i fitxers d'impressió |
 | **Tècnic/a electrònic** | Circuit, connexions i seguretat |
 | **Documentant/Comunicador/a** | Fotos, captures i preparació del pitch |
 
@@ -95,7 +95,7 @@ Consulteu el calendari de les 12 sessions del projecte i completeu el cronograma
 | 3 | Exercicis 1 a 5 de Tinkercad | |
 | 4 | Exercicis 6 i 7, i litofania importada i mesurada | |
 | 5 | Capsa dissenyada | |
-| 6 | Peces laminades i enviades a la cua d'impressió | |
+| 6 | Projectes de laminació preparats i enviats a la cua d'impressió | |
 | 7 | Circuit LED muntat i funcionant fora de la capsa | |
 | 8 | Peces revisades i prototip muntat | |
 | 9 | Portafoli digital i guió del pitch | |
