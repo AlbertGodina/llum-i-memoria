@@ -16,6 +16,8 @@ Fem servir el vocabulari tècnic correcte, tant al portafoli com al pitch. No di
 | **Deformació** (*warping*) | Quan les cantonades de la peça s'aixequen del llit durant la impressió |
 | **PLA** | Plàstic que fem servir a la impressora 3D |
 | **LED** | Díode electroluminescent: component que emet llum quan hi passa corrent |
+| **Tira LED** | Cinta flexible amb molts LED petits, cadascun amb la seva resistència. Es pot tallar per les marques i funciona a 5 V |
+| **Multímetre** | Aparell per mesurar tensió, corrent i continuïtat d'un circuit |
 | **Ànode / Càtode** | Les dues potes del LED: l'ànode (+) és la pota llarga i el càtode (−) la curta |
 | **Resistència** | Component que limita el corrent perquè el LED no es cremi |
 | **Llei d'Ohm** | Relació entre tensió, corrent i resistència: V = R · I |
