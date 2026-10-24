@@ -11,7 +11,7 @@ A cada fase, una persona de la parella lidera una tasca. Tots dos participeu en 
 | Rol | Responsable de |
 |---|---|
 | **Dissenyador/a principal** | Tinkercad i mesures precises |
-| **Enginyer/a de fabricació** | Cura, impressora i cua d'impressió |
+| **Enginyer/a de fabricació** | Bambu Studio i fitxers d'impressió |
 | **Tècnic/a electrònic** | Circuit, connexions i seguretat |
 | **Documentant/Comunicador/a** | Fotos, captures i preparació del pitch |
 
