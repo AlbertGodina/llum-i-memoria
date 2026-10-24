@@ -6,7 +6,9 @@ Fem servir el vocabulari tècnic correcte, tant al portafoli com al pitch. No di
 |---|---|
 | **Litofania** | Placa de gruix variable que mostra una imatge quan la il·lumineu per darrere |
 | **STL** | Format de fitxer per a models 3D que llegeixen els programes de laminació |
-| **Laminador** (*slicer*) | Programa que converteix un model 3D en les instruccions de la impressora; fem servir Cura |
+| **Laminador** (*slicer*) | Programa que converteix un model 3D en les instruccions de la impressora; fem servir Bambu Studio |
+| **Tovera** (*nozzle*) | Peça de la impressora per on surt el plàstic fos. La nostra és de 0,4 mm |
+| **Projecte 3MF** | Fitxer que desa el model, l'orientació i els paràmetres de laminació de Bambu Studio |
 | **Alçada de capa** | Gruix de cada capa de plàstic. Com més petita, més detall i més temps d'impressió |
 | **Ompliment** (*infill*) | Percentatge de l'interior de la peça que s'omple de material |
 | **Suports** | Estructures temporals que sostenen les parts que queden en l'aire durant la impressió |
