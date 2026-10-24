@@ -30,7 +30,7 @@ De davant cap enrere, el cos té aquesta estructura:
 |---|---|
 | Paret del davant (2 mm) | El marc, amb la finestra per on es veu la imatge |
 | Encaix (gruix de la litofania + 1 mm) | L'espai on s'asseu la litofania |
-| Cavitat (25 mm) | L'espai per al LED, la resistència, l'interruptor i els cables |
+| Cavitat (25 mm) | L'espai per a la tira LED, l'interruptor i els cables |
 | Darrere | Obert: es tanca amb la tapa |
 
 ### Calculeu les dimensions
@@ -105,7 +105,7 @@ Quan acabeu, ajudeu la vostra parella.
 
 Mostreu el vostre disseny i responeu aquestes preguntes de control:
 
-- [ ] Hi ha **prou marge** per als components electrònics (LED, resistència, interruptor, cables)?
+- [ ] Hi ha **prou marge** per als components electrònics (tira LED, interruptor, cables)?
 - [ ] El **forat del cable** és accessible?
 - [ ] La **tapa** es pot obrir i tancar virtualment?
 - [ ] La **litofania** hi cap i la finestra en mostra la imatge?
