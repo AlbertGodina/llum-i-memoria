@@ -47,7 +47,7 @@ Agafeu les mesures de la litofania de la sessió 4 i ompliu la columna «La nost
 | Finestra (amplada × alçada × fondària) | (amplada − 8) × (alçada − 8) × 3 | 72 × 52 × 3 mm | |
 | Tac de la tapa | cavitat − 0,8 a l'amplada i a l'alçada | 83,2 × 63,2 mm | |
 
-!!! info "Per què tantes folgances?"
+!!! info "Per què no ho fem exacte?"
     Les impressores 3D no són perfectes. Si l'encaix és exacte, la peça no hi entra. Per això l'encaix té **1 mm de joc**, la cavitat deixa **2 mm** a cada costat i la tapa té **0,4 mm** de joc per costat.
 
 !!! warning "Parets de 2 mm com a mínim"
