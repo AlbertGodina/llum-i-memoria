@@ -20,10 +20,9 @@ A la sessió 1 heu triat la imatge i heu generat la litofania. Ara toca pensar: 
 
 ## 1. Repàs d'electrònica i càlcul de la resistència (10 min)
 
-**Parelles.** Ja sabeu muntar un circuit bàsic amb **font + resistència + LED**. Ara l'heu d'aplicar al vostre producte.
+**Parelles.** Ja sabeu muntar un circuit bàsic amb **font + resistència + LED**. El nostre producte s'il·luminarà amb una **tira LED de 5 V**, així que primer repassem el que ja sabeu i després ho adaptem al producte.
 
-1. Dibuixeu l'**esquema elèctric** de la vostra litofania. Heu de tenir en compte que necessitarem també un **interruptor** o un **potenciòmetre** (un regulador de llum).
-2. Calculeu aproximadament la **resistència** necessària per a un LED blanc estàndard alimentat per USB, amb aquestes dades:
+1. Calculeu aproximadament la **resistència** que necessitaria **un sol LED blanc** estàndard alimentat per USB, amb aquestes dades:
 
     | Dada | Valor |
     |---|---|
@@ -33,16 +32,18 @@ A la sessió 1 heu triat la imatge i heu generat la litofania. Ara toca pensar: 
 
     La fórmula és: **R = (V font − V LED) / I LED**
 
+2. Dibuixeu l'**esquema elèctric** de la vostra litofania: una **font USB de 5 V**, un **interruptor** (opcional) i la **tira LED**.
+
 !!! tip "Si us costa el càlcul"
     No cal fer cap càlcul complex: el corrent de 20 mA és el valor habitual per a un LED blanc. Podeu fer servir una calculadora en línia o la [calculadora de resistència](../recursos/calculadora-resistencia.md) del web.
 
 ??? tip "Pista: comproveu el vostre resultat"
-    Amb 3,2 V al LED: (5 − 3,2) / 0,020 = **90 Ω**. Com que 90 Ω no és un valor comercial, a la sessió 7 farem servir la resistència comercial **immediatament superior** (100 Ω o 150 Ω). Així el LED no es crema.
+    Amb 3,2 V al LED: (5 − 3,2) / 0,020 = **90 Ω**. Com que 90 Ω no és un valor comercial, a la pràctica es fa servir el valor comercial **immediatament superior** (100 Ω). Així el LED no es crema.
 
-!!! warning "Un LED sempre porta resistència"
-    Si connecteu un LED directament a 5 V, es crema. La resistència limita el corrent.
+!!! info "Per què la tira LED no necessita resistència?"
+    Una tira LED és com molts LED petits, cadascun amb la seva pròpia resistència ja soldada, connectats en paral·lel. Per això es pot connectar directament als 5 V del USB. Si connecteu un LED **sol** directament a 5 V, es crema.
 
-**Producte:** un **esquema elèctric preliminar** (a mà o digital), amb símbols estàndard i els valors estimats.
+**Producte:** un **esquema elèctric preliminar** (a mà o digital), amb símbols estàndard, i el **càlcul de la resistència** d'un LED.
 
 ## 2. Anàlisi del cicle de vida del producte (20 min)
 
@@ -53,11 +54,11 @@ Ompliu la taula del cicle de vida amb **paraules clau o frases curtes**. No cal 
 | Fase | Preguntes per ajudar-vos | Impacte que identifiqueu |
 |---|---|---|
 | **Extracció i producció** | D'on ve el PLA? És biodegradable? Quins residus genera la impressora? | |
-| **Ús** | Quant consumeix el LED? Com afecta la factura de la llum de qui l'utilitzi? | |
+| **Ús** | Quant consumeix la tira LED? Com afecta la factura de la llum de qui l'utilitzi? | |
 | **Fi de vida** | Què passa amb la litofania quan es trenca? Es pot reciclar el plàstic? I els components electrònics? | |
 
 ??? tip "Pista per a la fase d'ús"
-    La potència que consumeix el LED es calcula amb **P = V · I**. Amb 5 V i 20 mA, surt **0,1 W**. Compareu-ho amb el consum d'altres aparells de casa vostra: mireu una factura de la llum o l'etiqueta d'un electrodomèstic.
+    La potència que consumeix la tira es calcula amb **P = V · I**. A la sessió 7 en sabreu el valor exacte; ara en podeu fer una estimació: amb 5 V i uns 100 mA, surt **0,5 W**. Compareu-ho amb el consum d'altres aparells de casa vostra: mireu una factura de la llum o l'etiqueta d'un electrodomèstic.
 
 ### Dues accions concretes
 
