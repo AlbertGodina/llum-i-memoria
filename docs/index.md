@@ -39,7 +39,7 @@ Aquest projecte treballa tres ODS: **ODS 7** (energia neta i assequible), **ODS 
 | **2. Aprenem** | [3. Introducció al disseny 3D](fase2-aprenem/s03-tinkercad-basic.md) | Primers exercicis a Tinkercad |
 | | [4. Forats i importació de la litofania](fase2-aprenem/s04-forats-importacio-litofania.md) | Forats i importació de l'STL |
 | | [5. Disseny de la capsa](fase2-aprenem/s05-disseny-capsa.md) | Cos, ranura, tapa i passacables |
-| | [6. Laminació](fase2-aprenem/s06-laminacio-cura.md) | Paràmetres de Cura i cua d'impressió |
+| | [6. Laminació](fase2-aprenem/s06-laminacio-cura.md) | La impressora, paràmetres de laminació i cua d'impressió |
 | | [7. Muntatge electrònic](fase2-aprenem/s07-electronica-led.md) | Circuit LED amb cable USB reciclat |
 | **3. Què hem après?** | [8. Incidències i integració](fase3-que-hem-apres/s08-incidencies-integracio.md) | Revisió de peces i muntatge final |
 | | [9. Portafoli digital](fase3-que-hem-apres/s09-portafoli-digital.md) | Documentació i guió del pitch |
