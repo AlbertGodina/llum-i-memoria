@@ -42,7 +42,7 @@ La presentació és tan important com el disseny: ha de comunicar què heu fet, 
 
 ### El nom i les parts del pitch
 
-Primer, **trieu el nom de la vostra startup**: serà la vostra marca. Després, completeu el guió amb **paraules clau o frases curtes**. No escriviu el text sencer.
+Primer, **trieu el nom de la vostra startup**: serà la vostra marca. Després, completeu el guió (la plantilla és a [Plantilles](../recursos/plantilles.md)) amb **paraules clau o frases curtes**. No escriviu el text sencer.
 
 | Part | Temps | Què hi explicareu | Qui parla |
 |---|---|---|---|
