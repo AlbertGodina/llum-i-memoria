@@ -24,7 +24,7 @@ No es tracta només de demostrar que **funciona**, sinó de demostrar que entene
 
 ## 1. Estructurem el portafoli digital (25 min)
 
-**Parelles.** Obriu la **plantilla** de portafoli que us dona el docent (Google Docs o Slides). Té sis seccions obligatòries i, a cada una, **pistes** (*Hint*) sobre què heu de buscar si us sentiu perduts.
+**Parelles.** Obriu la **plantilla** de portafoli que us dona el docent (Google Docs o Slides). Teniu el seu contingut a [Plantilles](../recursos/plantilles.md). Té sis seccions obligatòries i, a cada una, **pistes** (*Hint*) sobre què heu de buscar si us sentiu perduts.
 
 A la taula teniu què cal posar a cada secció i **d'on ho podeu treure**: gairebé tot ja ho heu fet a les sessions anteriors.
 
