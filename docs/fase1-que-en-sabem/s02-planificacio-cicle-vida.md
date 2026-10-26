@@ -49,7 +49,7 @@ A la sessió 1 heu triat la imatge i heu generat la litofania. Ara toca pensar: 
 
 **Parelles.** Cada producte té un cicle de vida: s'origina, s'utilitza i, un dia, s'acaba. Cada fase té un impacte ambiental. Repartiu-vos la feina: una persona investiga el **PLA**, i l'altra, els **components electrònics reciclats** disponibles a casa o a l'escola.
 
-Ompliu la taula del cicle de vida amb **paraules clau o frases curtes**. No cal escriure textos llargs.
+Ompliu la taula del cicle de vida (teniu la plantilla a [Plantilles](../recursos/plantilles.md)) amb **paraules clau o frases curtes**. No cal escriure textos llargs.
 
 | Fase | Preguntes per ajudar-vos | Impacte que identifiqueu |
 |---|---|---|
@@ -89,7 +89,7 @@ Els rols **rotaran** durant el projecte, però ara heu de tenir clar qui fa què
 
 ### Feu el cronograma de la parella
 
-Consulteu el calendari de les 12 sessions del projecte i completeu el cronograma amb aquestes fites:
+Consulteu el calendari de les 12 sessions del projecte i completeu el cronograma amb aquestes fites (també és a [Plantilles](../recursos/plantilles.md)):
 
 | Sessió | Què hem de tenir fet | Responsable |
 |---|---|---|
